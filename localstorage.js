@@ -1,6 +1,5 @@
 /** LocalStorage Helpers
  *  author: Jacob Ross
- *  docs: http://jake.i-tul.com/localStorage
  */
 function store_this(name, obj){
     if(name){
